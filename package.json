@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "server": "nodemon server.js",
+    "client1": "nodemon client1.js",
+    "client2": "nodemon client2.js",
+    "client3": "nodemon client3.js"
+  }
+}
